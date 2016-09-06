@@ -13,6 +13,7 @@ function [  ] = plot_action( q_value,x,y )
 % end
 plot(1,1);
 
+q_value=roundn(q_value,-2);
 
 coordinate_y=1.75-(x-2)*0.5;
 coordinate_x=0.2+(y-2)*0.5;
