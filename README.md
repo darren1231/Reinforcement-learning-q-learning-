@@ -14,3 +14,7 @@ optimizing value and converge to the opitimal value.
 Here is q table. Red dot means agent's position.
 
 <img src="./q table.png" width = "400" height = "400" alt="q table" align=center />
+
+Here is how agent move.
+
+<img src="./agent mvoe.png" width = "400" height = "400" alt="agent mvoe" align=center />
