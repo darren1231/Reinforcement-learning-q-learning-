@@ -11,4 +11,4 @@ negative reward. On the controry, if agent hit the goal, we will give +1
 as the positive reward. You will see the q table gradually being an
 optimizing value and converge to the opitimal value.
 
-![Aaron Swartz](https://github.com/younghz/Markdown/raw/master/Res/Aaron_Swartz.jpg)
+![Aaron Swartz](https://github.com/darren1231/Reinforcement-learning-q-learning-/q table.png)
