@@ -17,4 +17,4 @@ Here is q table. Red dot means agent's position.
 
 Here is how agent move.
 
-<img src="./agent mvoe.png" width = "400" height = "400" alt="agent mvoe" align=center />
+<img src="./agent move.png" width = "400" height = "400" alt="agent move" align=center />
