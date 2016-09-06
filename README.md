@@ -12,3 +12,4 @@ as the positive reward. You will see the q table gradually being an
 optimizing value and converge to the opitimal value.
 
 ![Aaron Swartz](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmS5pl-5f1oZAdFD1tAc9xbTODDB2sw-DKkZmHBNlQOlSSGAvB2w)
+![](./q table.png)
