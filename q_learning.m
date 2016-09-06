@@ -118,3 +118,5 @@ disp('to reach the goal');
 disp('');
 disp('Here is how agent move:');
 disp(map_matrix);
+
+%plot_action(qtable,position_x,position_y);
