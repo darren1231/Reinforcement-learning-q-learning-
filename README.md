@@ -11,5 +11,6 @@ negative reward. On the controry, if agent hit the goal, we will give +1
 as the positive reward. You will see the q table gradually being an
 optimizing value and converge to the opitimal value.
 
+Here is q table. Red dot means agent's position.
 
 <img src="./q table.png" width = "400" height = "400" alt="q table" align=center />
