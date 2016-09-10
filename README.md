@@ -2,7 +2,8 @@
 
 * This is a very simple example to show how q_learning works
 
-* This is the most important formula of q_learning: Q(state,x1)=  oldQ + alpha * (R(state,x1)+ (gamma * MaxQ(x1)) - oldQ)
+* This is the most important formula of q_learning: 
+    Q(state,x1)=  oldQ + alpha * (R(state,x1)+ (gamma * MaxQ(x1)) - oldQ)
 
 
 Through this program you can see the agent how to learn that find the best way to
@@ -11,12 +12,7 @@ negative reward. On the controry, if agent hit the goal, we will give +1
 as the positive reward. You will see the q table gradually being an
 optimizing value and converge to the opitimal value.
 
-Here is q table. Red dot means agent's position.
+* Here is q table. Red dot means agent's position.
 
 <img src="./q table.png" width = "400" height = "400" alt="q table" align=center />
-
-
-
-
-
 <img src="./agent move.png" width = "400" height = "400" alt="agent move" align=center />
