@@ -1,4 +1,4 @@
-# Reinforcement-learning-q-learning-
+# Reinforcement-learning-q-learning
 
 * This is a very simple example to show how q_learning works
 
