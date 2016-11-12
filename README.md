@@ -20,12 +20,12 @@ optimizing value and converge to the opitimal value.
 ## Instruction
 
 * q_learning.m: The basic version of map
-* q_learning_matrix.m: You can modify the map size by yourself and don't forget to modify the max_round as well
+* q_learning_matrix_n.m: You can modify the map size by yourself and don't forget to modify the max_round as well
 
 ```
-goal_x=5;
-goal_y=5;
-max_round=50;
+goal_x=??;
+goal_y=??;
+max_round=??;
 ```
 * plot_action.m:Show q table
 
