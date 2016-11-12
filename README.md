@@ -16,3 +16,13 @@ optimizing value and converge to the opitimal value.
 
 <img src="./q table.png" width = "400" height = "400" alt="q table" align=center />
 <img src="./agent move.png" width = "400" height = "400" alt="agent move" align=center />
+
+* Instruction
+
+* q_learning.m: The basic version of map
+* q_learning_matrix.m: You can modify the map size by yourself
+'''
+goal_x=5;
+goal_y=5;
+max_round=50;
+'''
